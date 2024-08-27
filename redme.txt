@@ -1,0 +1,6 @@
+
+1 Prepare the DTAP data
+  python create_data_two_trsfomer.py
+  
+2 Train the model and make predictions
+  python main.py
